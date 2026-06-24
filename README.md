@@ -4,12 +4,12 @@ Platform modern untuk browsing dan menonton video YouTube dengan interface yang 
 
 ## 🎯 Fitur
 
-- 🔍 **Search Video**: Cari video YouTube dengan real-time results
-- 📺 **Video Player**: Embedded YouTube player dalam modal yang elegant
-- 🔥 **Trending Videos**: Lihat video trending di Indonesia
-- 📱 **Responsive Design**: Tampil sempurna di semua device
-- 🎨 **Modern UI**: Dark theme dengan glassmorphism effects
-- ⚡ **Fast & Smooth**: Smooth animations dan transitions
+- **Search Video**: Cari video YouTube dengan real-time results
+- **Video Player**: Embedded YouTube player dalam modal yang elegant
+- **Trending Videos**: Lihat video trending di Indonesia
+- **Responsive Design**: Tampil sempurna di semua device
+- **Modern UI**: Dark theme dengan glassmorphism effects
+- **Fast & Smooth**: Smooth animations dan transitions
 
 ## 🚀 Setup & Installation
 
