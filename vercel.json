@@ -23,8 +23,6 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_KEY": "base64:181HL0wSHqvNfhZBZayrcJ04E5UZdeJBvqHjDqcFIoM=",
-        "YOUTUBE_API_KEY": "AIzaSyC4SSzogG1QzXr0ThWBrVCuEN6HFCxqAJY",
         "CACHE_STORE": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
